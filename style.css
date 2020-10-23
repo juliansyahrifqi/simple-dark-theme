@@ -13,6 +13,11 @@ body {
     background: var(--bg-color);
 }
 
-h1, p {
+h1, p, a{
     color: var(--txt-color);
+}
+
+a {
+    display: inline-block;
+    margin-top: 40px;
 }
